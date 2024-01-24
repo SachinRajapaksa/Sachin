@@ -73,11 +73,13 @@ p{
   font-size: xx-large;
   color: #7E2553;
   padding: 2px 0px 200px   ;
-  background-color:#04060c;
+  background-color:#0a0f20;
+  
+  margin-bottom: 00px;
 }
 h3{
   border-top: 500px;
-  margin: 500px;
+  margin: 500px 0px 500px 0px;
   }
 .section{
   border: 50px 50px 50px 50px;
@@ -107,4 +109,58 @@ h3{
 #cs3:hover{
   cursor: pointer;
   background-color: #914646;
+}
+p1{
+  color: green;
+  margin-right:160px;
+  
+
+ }
+#wa:hover{
+  cursor: pointer;
+ border: -5px 0px -5px 0px;
+  
+}
+p2{
+  color: blue;
+  margin-right:160px;
+  margin-left:10px;
+}
+
+
+p3{
+  color: rgb(40, 40, 206);
+  margin-right:160px;
+  margin-left:10px;
+}
+
+  
+
+p4{
+  color: rgb(248, 248, 248);
+  margin-right:15px;
+  margin-left:10px;
+}
+p5{
+  font-size: x-large;
+  color: white;
+}
+.card{
+  background-color: #485460;
+  border-radius: 20px;
+  margin: 10px;
+  box-shadow: 10px 10px 5px lightblue;
+  padding: 50px 50px 50px 50px;
+  text-align: justify;
+}
+h4{
+  font-size: xx-large;
+  text-align: center;
+  background-color: #04060c;
+  color: white;
+  margin-top:50px ;
+}
+
+p8{
+  padding: 80px;
 }
